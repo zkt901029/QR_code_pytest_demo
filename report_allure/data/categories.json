@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"ulData\"]\"}\n  (Session info: headless chrome=103.0.5060.66)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00516463+2188387]\n\tOrdinal0 [0x004AE461+1762401]\n\tOrdinal0 [0x003C3D78+802168]\n\tOrdinal0 [0x003F1880+989312]\n\tOrdinal0 [0x003F1B1B+989979]\n\tOrdinal0 [0x0041E912+1173778]\n\tOrdinal0 [0x0040C824+1099812]\n\tOrdinal0 [0x0041CC22+1166370]\n\tOrdinal0 [0x0040C5F6+1099254]\n\tOrdinal0 [0x003E6BE0+945120]\n\tOrdinal0 [0x003E7AD6+948950]\n\tGetHandleVerifier [0x007B71F2+2712546]\n\tGetHandleVerifier [0x007A886D+2652765]\n\tGetHandleVerifier [0x005A002A+520730]\n\tGetHandleVerifier [0x0059EE06+516086]\n\tOrdinal0 [0x004B468B+1787531]\n\tOrdinal0 [0x004B8E88+1805960]\n\tOrdinal0 [0x004B8F75+1806197]\n\tOrdinal0 [0x004C1DF1+1842673]\n\tBaseThreadInitThunk [0x75A76739+25]\n\tRtlGetFullPathName_UEx [0x77D28FEF+1215]\n\tRtlGetFullPathName_UEx [0x77D28FBD+1165]",
+      "children" : [ {
+        "name" : "test_02_login[测试网址：http://www.tl6.cc/2306/23060100016]",
+        "uid" : "e11af4f11c8519a7",
+        "parentUid" : "328b445cab2a862919d2379f8b334ea7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1658821969163,
+          "stop" : 1658821975458,
+          "duration" : 6295
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/2306/23060100016', 'data': [{'url': 'http://www.tl6.cc/2306/23060100016'}, {'barcode': '23060100016'}, {'confirm': 'ulData'}]}" ]
+      } ],
+      "uid" : "328b445cab2a862919d2379f8b334ea7"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

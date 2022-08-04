@@ -1,0 +1,177 @@
+{
+  "uid" : "c39fe1d5f34a924a",
+  "name" : "test_02_login[测试网址：http://www.tl6.cc/3501/0273018556]",
+  "fullName" : "test_case.test_qr_code.Test_QR_login#test_02_login",
+  "historyId" : "d5934fee9d8c0cd09c2769b62b3aa49c",
+  "time" : {
+    "start" : 1658821948301,
+    "stop" : 1658821949760,
+    "duration" : 1459
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "chrome_options",
+    "time" : {
+      "start" : 1658821941074,
+      "stop" : 1658821942138,
+      "duration" : 1064
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "登录操作",
+      "time" : {
+        "start" : 1658821948303,
+        "stop" : 1658821949759,
+        "duration" : 1456
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "步骤1：打开浏览器",
+        "time" : {
+          "start" : 1658821948303,
+          "stop" : 1658821949734,
+          "duration" : 1431
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      }, {
+        "name" : "步骤2：获取浏览器字段内容",
+        "time" : {
+          "start" : 1658821949734,
+          "stop" : 1658821949759,
+          "duration" : 25
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      }, {
+        "name" : "步骤3：断言数据信息",
+        "time" : {
+          "start" : 1658821949759,
+          "stop" : 1658821949759,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "url",
+        "value" : "'http://www.tl6.cc/3501/0273018556'"
+      }, {
+        "name" : "barcode",
+        "value" : "'0273018556'"
+      }, {
+        "name" : "confirm",
+        "value" : "'wrap'"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 3,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "a49a535018bf9656",
+      "name" : "stdout",
+      "source" : "a49a535018bf9656.txt",
+      "type" : "text/plain",
+      "size" : 104
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 4,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "chrome_options::0",
+    "time" : {
+      "start" : 1658821989849,
+      "stop" : 1658821991920,
+      "duration" : 2071
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "flaky(reruns=3, reruns_delay=1)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_qr_code"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_QR_login"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-3RK6891H"
+  }, {
+    "name" : "thread",
+    "value" : "23744-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_qr_code"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "args",
+    "value" : "{'title': '测试网址：http://www.tl6.cc/3501/0273018556', 'data': [{'url': 'http://www.tl6.cc/3501/0273018556'}, {'barcode': '0273018556'}, {'confirm': 'wrap'}]}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "flaky(reruns=3, reruns_delay=1)" ]
+  },
+  "source" : "c39fe1d5f34a924a.json",
+  "parameterValues" : [ "{'title': '测试网址：http://www.tl6.cc/3501/0273018556', 'data': [{'url': 'http://www.tl6.cc/3501/0273018556'}, {'barcode': '0273018556'}, {'confirm': 'wrap'}]}" ]
+}

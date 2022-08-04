@@ -1,0 +1,294 @@
+# 1
+- title: 测试网址：http://www.tl6.cc/1101/5013001316
+  data:
+    - url: http://www.tl6.cc/1101/5013001316
+    - barcode: '5013001316'
+    - confirm: ulData
+    - cylinder_ID: aBottleInfo
+    - filling: FillingInfo
+    - cylinder_type: '液化石油气'
+    - delivery: DeliveryInfo
+
+
+# 2
+- title: 测试网址：http://www.tl6.cc/1306/3023004423
+  data:
+    - url: http://www.tl6.cc/1306/3023004423
+    - barcode: '3023004423'
+    - confirm: ulData
+    - cylinder_ID: aBottleInfo
+    - filling: FillingInfo
+    - cylinder_type: '液化石油气'
+    - delivery: DeliveryInfo
+
+
+# 3
+- title: 测试网址：http://www.tl6.cc/1404/6012002179
+  data:
+    - url: http://www.tl6.cc/1404/6012002179
+    - barcode: '6012002179'
+    - confirm: ulData
+    - cylinder_ID: aBottleInfo
+    - filling: FillingInfo
+    - cylinder_type: '丙烷'
+    - delivery: DeliveryInfo
+
+# 4
+- title: 测试网址：http://www.tl6.cc/1502/1023096613
+  data:
+    - url: http://www.tl6.cc/1502/1023096613
+    - barcode: '1023096613'
+    - confirm: ulData
+    - cylinder_ID: aBottleInfo
+    - filling: FillingInfo
+    - cylinder_type: '液化石油气'
+    - delivery: DeliveryInfo
+
+
+
+# 6
+- title: 测试网址：http://www.tl6.cc/2202/2080000496
+  data:
+    - url: http://www.tl6.cc/2202/2080000496
+    - barcode: '2080000496'
+    - confirm: ulData
+    - cylinder_ID: aBottleInfo
+    - filling: FillingInfo
+    - cylinder_type: '液化石油气'
+    - delivery: DeliveryInfo
+
+
+
+# 8
+- title: 测试网址：http://www.tl6.cc/3204/8004413437
+  data:
+    - url: http://www.tl6.cc/3204/8004413437
+    - barcode: '8004413437'
+    - confirm: ulData
+    - cylinder_ID: aBottleInfo
+    - filling: FillingInfo
+    - cylinder_type: '液化石油气'
+    - delivery: DeliveryInfo
+
+# 9
+- title: 测试网址：http://www.tl6.cc/3201/02292670
+  data:
+    - url: http://www.tl6.cc/3201/02292670
+    - barcode: '02292670'
+    - confirm: ulData
+    - cylinder_ID: aBottleInfo
+    - filling: FillingInfo
+    - cylinder_type: '液化石油气'
+    - delivery: DeliveryInfo
+
+
+# 11
+- title: 测试网址：http://www.tl6.cc/3401/0111701285
+  data:
+    - url: http://www.tl6.cc/3401/0111701285
+    - barcode: '0111701285'
+    - confirm: ulData
+    - cylinder_ID: aBottleInfo
+    - filling: FillingInfo
+    - cylinder_type: '氩气'
+    - delivery: DeliveryInfo
+
+# 12
+- title: 测试网址：http://www.tl6.cc/3601/8211701751
+  data:
+    - url: http://www.tl6.cc/3601/8211701751
+    - barcode: '8211701751'
+    - confirm: ulData
+    - cylinder_ID: aBottleInfo
+    - filling: FillingInfo
+    - cylinder_type: '医用氧'
+    - delivery: DeliveryInfo
+
+# 13
+- title: 测试网址：http://www.tl6.cc/3707/8170001026
+  data:
+    - url: http://www.tl6.cc/3707/8170001026
+    - barcode: '8170001026'
+    - confirm: ulData
+    - cylinder_ID: aBottleInfo
+    - filling: FillingInfo
+    - cylinder_type: '液化石油气'
+    - delivery: DeliveryInfo
+
+# 14
+- title: 测试网址：http://www.tl6.cc/4103/6660000001
+  data:
+    - url: http://www.tl6.cc/4103/6660000001
+    - barcode: '6660000001'
+    - confirm: ulData
+    - cylinder_ID: aBottleInfo
+    - filling: FillingInfo
+    - cylinder_type: '氮气'
+    - delivery: DeliveryInfo
+
+# 15
+- title: 测试网址：http://www.tl6.cc/4201/6030021371
+  data:
+    - url: http://www.tl6.cc/4201/6030021371
+    - barcode: '6030021371'
+    - confirm: ulData
+    - cylinder_ID: aBottleInfo
+    - filling: FillingInfo
+    - cylinder_type: '液化石油气'
+    - delivery: DeliveryInfo
+
+# 16
+- title: 测试网址：http://www.tl6.cc/4301/7011016243
+  data:
+    - url: http://www.tl6.cc/4301/7011016243
+    - barcode: '7011016243'
+    - confirm: ulData
+    - cylinder_ID: aBottleInfo
+    - filling: FillingInfo
+    - cylinder_type: '二氧化碳'
+    - delivery: DeliveryInfo
+
+# 17
+- title: 测试网址：http://www.tl6.cc/4406/2063000081
+  data:
+    - url: http://www.tl6.cc/4406/2063000081
+    - barcode: '2063000081'
+    - confirm: ulData
+    - cylinder_ID: aBottleInfo
+    - filling: FillingInfo
+    - cylinder_type: '液化石油气'
+    - delivery: DeliveryInfo
+
+# 18
+- title: 测试网址：http://www.tl6.cc/4501/1233001666
+  data:
+    - url: http://www.tl6.cc/4501/1233001666
+    - barcode: '1233001666'
+    - confirm: ulData
+    - cylinder_ID: aBottleInfo
+    - filling: FillingInfo
+    - cylinder_type: '液化石油气'
+    - delivery: DeliveryInfo
+
+# 19
+- title: 测试网址：http://www.tl6.cc/4690/6060002005
+  data:
+    - url: http://www.tl6.cc/4690/6060002005
+    - barcode: '6060002005'
+    - confirm: ulData
+    - cylinder_ID: aBottleInfo
+    - filling: FillingInfo
+    - cylinder_type: '液化石油气'
+    - delivery: DeliveryInfo
+
+# 20
+- title: 测试网址：http://www.tl6.cc/5000/0083008450
+  data:
+    - url: http://www.tl6.cc/5000/0083008450
+    - barcode: '0083008450'
+    - confirm: ulData
+    - cylinder_ID: aBottleInfo
+    - filling: FillingInfo
+    - cylinder_type: '液化二甲醚'
+    - delivery: DeliveryInfo
+
+# 21
+- title: 测试网址：http://www.tl6.cc/5101/0123013538
+  data:
+    - url: http://www.tl6.cc/5101/0123013538
+    - barcode: '0123013538'
+    - confirm: ulData
+    - cylinder_ID: aBottleInfo
+    - filling: FillingInfo
+    - cylinder_type: '液化石油气'
+    - delivery: DeliveryInfo
+
+# 22
+- title: 测试网址：http://www.tl6.cc/5201/1011700731
+  data:
+    - url: http://www.tl6.cc/5201/1011700731
+    - barcode: '1011700731'
+    - confirm: ulData
+    - cylinder_ID: aBottleInfo
+    - filling: FillingInfo
+    - cylinder_type: '医用氧'
+    - delivery: DeliveryInfo
+
+# 23
+- title: 测试网址：http://www.tl6.cc/5326/0252010880
+  data:
+    - url: http://www.tl6.cc/5326/0252010880
+    - barcode: '0252010880'
+    - confirm: ulData
+    - cylinder_ID: aBottleInfo
+    - filling: FillingInfo
+    - cylinder_type: '液化二甲醚'
+    - delivery: DeliveryInfo
+
+# 24
+- title: 测试网址：http://www.tl6.cc/5426/0013028381
+  data:
+    - url: http://www.tl6.cc/5426/0013028381
+    - barcode: '0013028381'
+    - confirm: ulData
+    - cylinder_ID: aBottleInfo
+    - filling: FillingInfo
+    - cylinder_type: '液化石油气'
+    - delivery: DeliveryInfo
+
+# 25
+- title: 测试网址：http://www.tl6.cc/6105/3020001037
+  data:
+    - url: http://www.tl6.cc/6105/3020001037
+    - barcode: '3020001037'
+    - confirm: ulData
+    - cylinder_ID: aBottleInfo
+    - filling: FillingInfo
+    - cylinder_type: '液化石油气'
+    - delivery: DeliveryInfo
+
+# 26
+- title: 测试网址：http://www.tl6.cc/6208/2010000646
+  data:
+    - url: http://www.tl6.cc/6208/2010000646
+    - barcode: '2010000646'
+    - confirm: ulData
+    - cylinder_ID: aBottleInfo
+    - filling: FillingInfo
+    - cylinder_type: '液化石油气'
+    - delivery: DeliveryInfo
+
+# 27
+- title: 测试网址：http://www.tl6.cc/6402/1021600225
+  data:
+    - url: http://www.tl6.cc/6402/1021600225
+    - barcode: '1021600225'
+    - confirm: ulData
+    - cylinder_ID: aBottleInfo
+    - filling: FillingInfo
+    - cylinder_type: '二氧化碳'
+    - delivery: DeliveryInfo
+
+# 28
+- title: 测试网址：http://www.tl6.cc/6521/3013001706
+  data:
+    - url: http://www.tl6.cc/6521/3013001706
+    - barcode: '3013001706'
+    - confirm: ulData
+    - cylinder_ID: aBottleInfo
+    - filling: FillingInfo
+    - cylinder_type: '液化石油气'
+    - delivery: DeliveryInfo
+
+# 29
+- title: 测试网址：http://www.tl6.cc/3301/1853800037
+  data:
+    - url: http://www.tl6.cc/3301/1853800037
+    - barcode: '1853800037'
+    - confirm: ulData
+    - cylinder_ID: aBottleInfo
+    - filling: FillingInfo
+    - cylinder_type: '液化石油气'
+    - delivery: DeliveryInfo
+
+

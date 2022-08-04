@@ -1,0 +1,6 @@
+allure==0.1.0
+assertion==1.0.0
+pytest==3.5.1
+PyYAML==6.0
+SafeDriver==1.2.8
+selenium==4.3.0

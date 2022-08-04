@@ -1,0 +1,341 @@
+[ {
+  "uid" : "e3709c57939f93fb",
+  "name" : "test_03_login[测试网址：http://www.tl6.cc/4301/7011016243]",
+  "time" : {
+    "start" : 1658821964823,
+    "stop" : 1658821966818,
+    "duration" : 1995
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "47ec11f5c6abb533",
+  "name" : "test_03_login[测试网址：http://www.tl6.cc/6105/3020001037]",
+  "time" : {
+    "start" : 1658821982303,
+    "stop" : 1658821985496,
+    "duration" : 3193
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "127598f983aeb897",
+  "name" : "test_02_login[测试网址：http://www.tl6.cc/6301/1011101409]",
+  "time" : {
+    "start" : 1658821949764,
+    "stop" : 1658821951036,
+    "duration" : 1272
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "17c5ef6701e7f1bf",
+  "name" : "test_03_login[测试网址：http://www.tl6.cc/5326/0252010880]",
+  "time" : {
+    "start" : 1658821978991,
+    "stop" : 1658821980640,
+    "duration" : 1649
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ea2df2e55789cef3",
+  "name" : "test_03_login[测试网址：http://www.tl6.cc/4406/2063000081]",
+  "time" : {
+    "start" : 1658821966823,
+    "stop" : 1658821968819,
+    "duration" : 1996
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ef3c284e901ec82",
+  "name" : "test_03_login[测试网址：http://www.tl6.cc/2202/2080000496]",
+  "time" : {
+    "start" : 1658821982695,
+    "stop" : 1658821984792,
+    "duration" : 2097
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "96917231c2939208",
+  "name" : "test_03_login[测试网址：http://www.tl6.cc/5000/0083008450]",
+  "time" : {
+    "start" : 1658821973053,
+    "stop" : 1658821975331,
+    "duration" : 2278
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c80c049f486eeebd",
+  "name" : "test_03_login[测试网址：http://www.tl6.cc/6208/2010000646]",
+  "time" : {
+    "start" : 1658821985503,
+    "stop" : 1658821987958,
+    "duration" : 2455
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c60a4751b913423f",
+  "name" : "test_03_login[测试网址：http://www.tl6.cc/4501/1233001666]",
+  "time" : {
+    "start" : 1658821968824,
+    "stop" : 1658821971013,
+    "duration" : 2189
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "278f3592670ae2b4",
+  "name" : "test_02_login[测试网址：http://www.tl6.cc/1200/3056105221]",
+  "time" : {
+    "start" : 1658821946850,
+    "stop" : 1658821948297,
+    "duration" : 1447
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3277ed69d3af6f03",
+  "name" : "test_03_login[测试网址：http://www.tl6.cc/3201/02292670]",
+  "time" : {
+    "start" : 1658821953035,
+    "stop" : 1658821954719,
+    "duration" : 1684
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "375f4637927b2ed7",
+  "name" : "test_03_login[测试网址：http://www.tl6.cc/3204/8004413437]",
+  "time" : {
+    "start" : 1658821951039,
+    "stop" : 1658821953003,
+    "duration" : 1964
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c39fe1d5f34a924a",
+  "name" : "test_02_login[测试网址：http://www.tl6.cc/3501/0273018556]",
+  "time" : {
+    "start" : 1658821948301,
+    "stop" : 1658821949760,
+    "duration" : 1459
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fb64175011624eb8",
+  "name" : "test_03_login[测试网址：http://www.tl6.cc/5201/1011700731]",
+  "time" : {
+    "start" : 1658821977024,
+    "stop" : 1658821978985,
+    "duration" : 1961
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "34c4b4ce131c1ea8",
+  "name" : "test_03_login[测试网址：http://www.tl6.cc/4103/6660000001]",
+  "time" : {
+    "start" : 1658821960174,
+    "stop" : 1658821962117,
+    "duration" : 1943
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "81c6c0345429c884",
+  "name" : "test_03_login[测试网址：http://www.tl6.cc/6402/1021600225]",
+  "time" : {
+    "start" : 1658821984797,
+    "stop" : 1658821986485,
+    "duration" : 1688
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7fca35c21bb773e9",
+  "name" : "test_03_login[测试网址：http://www.tl6.cc/1502/1023096613]",
+  "time" : {
+    "start" : 1658821980928,
+    "stop" : 1658821982690,
+    "duration" : 1762
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "201f783fda5424bb",
+  "name" : "test_03_login[测试网址：http://www.tl6.cc/4201/6030021371]",
+  "time" : {
+    "start" : 1658821962122,
+    "stop" : 1658821964817,
+    "duration" : 2695
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e9ed996e5254a6b4",
+  "name" : "test_03_login[测试网址：http://www.tl6.cc/5101/0123013538]",
+  "time" : {
+    "start" : 1658821975339,
+    "stop" : 1658821977019,
+    "duration" : 1680
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e11af4f11c8519a7",
+  "name" : "test_02_login[测试网址：http://www.tl6.cc/2306/23060100016]",
+  "time" : {
+    "start" : 1658821969163,
+    "stop" : 1658821975458,
+    "duration" : 6295
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "afe32e22da8e1ad7",
+  "name" : "test_03_login[测试网址：http://www.tl6.cc/6521/3013001706]",
+  "time" : {
+    "start" : 1658821986490,
+    "stop" : 1658821988308,
+    "duration" : 1818
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f18067ed82a30a76",
+  "name" : "test_03_login[测试网址：http://www.tl6.cc/3401/0111701285]",
+  "time" : {
+    "start" : 1658821954725,
+    "stop" : 1658821956721,
+    "duration" : 1996
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "80d49bdba37bdeec",
+  "name" : "test_03_login[测试网址：http://www.tl6.cc/4690/6060002005]",
+  "time" : {
+    "start" : 1658821971019,
+    "stop" : 1658821973047,
+    "duration" : 2028
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "49e8986adc35434e",
+  "name" : "test_02_login[测试网址：http://www.tl6.cc/4401/1011117957]",
+  "time" : {
+    "start" : 1658821944999,
+    "stop" : 1658821946186,
+    "duration" : 1187
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c392850e20ac11f5",
+  "name" : "test_03_login[测试网址：http://www.tl6.cc/3601/8211701751]",
+  "time" : {
+    "start" : 1658821956725,
+    "stop" : 1658821958436,
+    "duration" : 1711
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2aa92e4a5c54348f",
+  "name" : "test_03_login[测试网址：http://www.tl6.cc/1404/6012002179]",
+  "time" : {
+    "start" : 1658821979217,
+    "stop" : 1658821980923,
+    "duration" : 1706
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "926705cfa98b517a",
+  "name" : "test_03_login[测试网址：http://www.tl6.cc/3301/1853800037]",
+  "time" : {
+    "start" : 1658821987962,
+    "stop" : 1658821989848,
+    "duration" : 1886
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "13e087ed4ae2ca97",
+  "name" : "test_03_login[测试网址：http://www.tl6.cc/1306/3023004423]",
+  "time" : {
+    "start" : 1658821977543,
+    "stop" : 1658821979212,
+    "duration" : 1669
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7d9a560625f973cb",
+  "name" : "test_03_login[测试网址：http://www.tl6.cc/3707/8170001026]",
+  "time" : {
+    "start" : 1658821958440,
+    "stop" : 1658821960168,
+    "duration" : 1728
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8d341796c7f0fffe",
+  "name" : "test_01_login[测试网址：http://www.tl6.cc/4404/6683000339]",
+  "time" : {
+    "start" : 1658821942078,
+    "stop" : 1658821943749,
+    "duration" : 1671
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca2499774858640c",
+  "name" : "test_01_login[测试网址：http://www.tl6.cc/2102/6660101018]",
+  "time" : {
+    "start" : 1658821942140,
+    "stop" : 1658821946844,
+    "duration" : 4704
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "37b5155a473c3942",
+  "name" : "test_02_login[测试网址：http://www.tl6.cc/3303/5013083701]",
+  "time" : {
+    "start" : 1658821943753,
+    "stop" : 1658821944994,
+    "duration" : 1241
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6493e792fa302882",
+  "name" : "test_03_login[测试网址：http://www.tl6.cc/5426/0013028381]",
+  "time" : {
+    "start" : 1658821980646,
+    "stop" : 1658821982297,
+    "duration" : 1651
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fb361fabc15fbe01",
+  "name" : "test_03_login[测试网址：http://www.tl6.cc/1101/5013001316]",
+  "time" : {
+    "start" : 1658821975525,
+    "stop" : 1658821977539,
+    "duration" : 2014
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

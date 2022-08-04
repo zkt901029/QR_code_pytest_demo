@@ -1,0 +1,20 @@
+{
+    "reportName": "祥康--二维码测试报告",
+    "testRuns": [],
+    "statistic": {
+        "failed": 0,
+        "broken": 1,
+        "skipped": 0,
+        "passed": 33,
+        "unknown": 0,
+        "total": 34
+    },
+    "time": {
+        "start": 1658821942078,
+        "stop": 1658821989848,
+        "duration": 47770,
+        "minDuration": 1187,
+        "maxDuration": 6295,
+        "sumDuration": 70712
+    }
+}

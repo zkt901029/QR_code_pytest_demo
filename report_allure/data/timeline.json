@@ -1,0 +1,498 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-3RK6891H",
+    "children" : [ {
+      "name" : "23744-MainThread",
+      "children" : [ {
+        "name" : "test_01_login[测试网址：http://www.tl6.cc/2102/6660101018]",
+        "uid" : "ca2499774858640c",
+        "parentUid" : "9b7b84feea895125fe5b2243d752986c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821942140,
+          "stop" : 1658821946844,
+          "duration" : 4704
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/2102/6660101018', 'data': [{'url': 'http://www.tl6.cc/2102/6660101018'}, {'barcode': '6660101018'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '氧气'}, {'delivery': 'DeliveryInfo'}]}" ]
+      }, {
+        "name" : "test_03_login[测试网址：http://www.tl6.cc/5101/0123013538]",
+        "uid" : "e9ed996e5254a6b4",
+        "parentUid" : "9b7b84feea895125fe5b2243d752986c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821975339,
+          "stop" : 1658821977019,
+          "duration" : 1680
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/5101/0123013538', 'data': [{'url': 'http://www.tl6.cc/5101/0123013538'}, {'barcode': '0123013538'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '液化石油气'}, {'delivery': 'DeliveryInfo'}]}" ]
+      }, {
+        "name" : "test_03_login[测试网址：http://www.tl6.cc/5326/0252010880]",
+        "uid" : "17c5ef6701e7f1bf",
+        "parentUid" : "9b7b84feea895125fe5b2243d752986c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821978991,
+          "stop" : 1658821980640,
+          "duration" : 1649
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/5326/0252010880', 'data': [{'url': 'http://www.tl6.cc/5326/0252010880'}, {'barcode': '0252010880'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '液化二甲醚'}, {'delivery': 'DeliveryInfo'}]}" ]
+      }, {
+        "name" : "test_03_login[测试网址：http://www.tl6.cc/4406/2063000081]",
+        "uid" : "ea2df2e55789cef3",
+        "parentUid" : "9b7b84feea895125fe5b2243d752986c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821966823,
+          "stop" : 1658821968819,
+          "duration" : 1996
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/4406/2063000081', 'data': [{'url': 'http://www.tl6.cc/4406/2063000081'}, {'barcode': '2063000081'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '液化石油气'}, {'delivery': 'DeliveryInfo'}]}" ]
+      }, {
+        "name" : "test_03_login[测试网址：http://www.tl6.cc/6105/3020001037]",
+        "uid" : "47ec11f5c6abb533",
+        "parentUid" : "9b7b84feea895125fe5b2243d752986c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821982303,
+          "stop" : 1658821985496,
+          "duration" : 3193
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/6105/3020001037', 'data': [{'url': 'http://www.tl6.cc/6105/3020001037'}, {'barcode': '3020001037'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '液化石油气'}, {'delivery': 'DeliveryInfo'}]}" ]
+      }, {
+        "name" : "test_02_login[测试网址：http://www.tl6.cc/6301/1011101409]",
+        "uid" : "127598f983aeb897",
+        "parentUid" : "9b7b84feea895125fe5b2243d752986c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821949764,
+          "stop" : 1658821951036,
+          "duration" : 1272
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/6301/1011101409', 'data': [{'url': 'http://www.tl6.cc/6301/1011101409'}, {'barcode': '1011101409'}, {'confirm': 'divCylinderInfo'}]}" ]
+      }, {
+        "name" : "test_02_login[测试网址：http://www.tl6.cc/1200/3056105221]",
+        "uid" : "278f3592670ae2b4",
+        "parentUid" : "9b7b84feea895125fe5b2243d752986c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821946850,
+          "stop" : 1658821948297,
+          "duration" : 1447
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/1200/3056105221', 'data': [{'url': 'http://www.tl6.cc/1200/3056105221'}, {'barcode': '3056105221'}, {'confirm': 'divCylinderInfo'}]}" ]
+      }, {
+        "name" : "test_03_login[测试网址：http://www.tl6.cc/5201/1011700731]",
+        "uid" : "fb64175011624eb8",
+        "parentUid" : "9b7b84feea895125fe5b2243d752986c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821977024,
+          "stop" : 1658821978985,
+          "duration" : 1961
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/5201/1011700731', 'data': [{'url': 'http://www.tl6.cc/5201/1011700731'}, {'barcode': '1011700731'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '医用氧'}, {'delivery': 'DeliveryInfo'}]}" ]
+      }, {
+        "name" : "test_03_login[测试网址：http://www.tl6.cc/6208/2010000646]",
+        "uid" : "c80c049f486eeebd",
+        "parentUid" : "9b7b84feea895125fe5b2243d752986c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821985503,
+          "stop" : 1658821987958,
+          "duration" : 2455
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/6208/2010000646', 'data': [{'url': 'http://www.tl6.cc/6208/2010000646'}, {'barcode': '2010000646'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '液化石油气'}, {'delivery': 'DeliveryInfo'}]}" ]
+      }, {
+        "name" : "test_03_login[测试网址：http://www.tl6.cc/5000/0083008450]",
+        "uid" : "96917231c2939208",
+        "parentUid" : "9b7b84feea895125fe5b2243d752986c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821973053,
+          "stop" : 1658821975331,
+          "duration" : 2278
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/5000/0083008450', 'data': [{'url': 'http://www.tl6.cc/5000/0083008450'}, {'barcode': '0083008450'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '液化二甲醚'}, {'delivery': 'DeliveryInfo'}]}" ]
+      }, {
+        "name" : "test_03_login[测试网址：http://www.tl6.cc/4301/7011016243]",
+        "uid" : "e3709c57939f93fb",
+        "parentUid" : "9b7b84feea895125fe5b2243d752986c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821964823,
+          "stop" : 1658821966818,
+          "duration" : 1995
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/4301/7011016243', 'data': [{'url': 'http://www.tl6.cc/4301/7011016243'}, {'barcode': '7011016243'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '二氧化碳'}, {'delivery': 'DeliveryInfo'}]}" ]
+      }, {
+        "name" : "test_03_login[测试网址：http://www.tl6.cc/3707/8170001026]",
+        "uid" : "7d9a560625f973cb",
+        "parentUid" : "9b7b84feea895125fe5b2243d752986c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821958440,
+          "stop" : 1658821960168,
+          "duration" : 1728
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/3707/8170001026', 'data': [{'url': 'http://www.tl6.cc/3707/8170001026'}, {'barcode': '8170001026'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '液化石油气'}, {'delivery': 'DeliveryInfo'}]}" ]
+      }, {
+        "name" : "test_03_login[测试网址：http://www.tl6.cc/5426/0013028381]",
+        "uid" : "6493e792fa302882",
+        "parentUid" : "9b7b84feea895125fe5b2243d752986c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821980646,
+          "stop" : 1658821982297,
+          "duration" : 1651
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/5426/0013028381', 'data': [{'url': 'http://www.tl6.cc/5426/0013028381'}, {'barcode': '0013028381'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '液化石油气'}, {'delivery': 'DeliveryInfo'}]}" ]
+      }, {
+        "name" : "test_03_login[测试网址：http://www.tl6.cc/3401/0111701285]",
+        "uid" : "f18067ed82a30a76",
+        "parentUid" : "9b7b84feea895125fe5b2243d752986c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821954725,
+          "stop" : 1658821956721,
+          "duration" : 1996
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/3401/0111701285', 'data': [{'url': 'http://www.tl6.cc/3401/0111701285'}, {'barcode': '0111701285'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '氩气'}, {'delivery': 'DeliveryInfo'}]}" ]
+      }, {
+        "name" : "test_03_login[测试网址：http://www.tl6.cc/3601/8211701751]",
+        "uid" : "c392850e20ac11f5",
+        "parentUid" : "9b7b84feea895125fe5b2243d752986c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821956725,
+          "stop" : 1658821958436,
+          "duration" : 1711
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/3601/8211701751', 'data': [{'url': 'http://www.tl6.cc/3601/8211701751'}, {'barcode': '8211701751'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '医用氧'}, {'delivery': 'DeliveryInfo'}]}" ]
+      }, {
+        "name" : "test_03_login[测试网址：http://www.tl6.cc/4690/6060002005]",
+        "uid" : "80d49bdba37bdeec",
+        "parentUid" : "9b7b84feea895125fe5b2243d752986c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821971019,
+          "stop" : 1658821973047,
+          "duration" : 2028
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/4690/6060002005', 'data': [{'url': 'http://www.tl6.cc/4690/6060002005'}, {'barcode': '6060002005'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '液化石油气'}, {'delivery': 'DeliveryInfo'}]}" ]
+      }, {
+        "name" : "test_03_login[测试网址：http://www.tl6.cc/3301/1853800037]",
+        "uid" : "926705cfa98b517a",
+        "parentUid" : "9b7b84feea895125fe5b2243d752986c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821987962,
+          "stop" : 1658821989848,
+          "duration" : 1886
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/3301/1853800037', 'data': [{'url': 'http://www.tl6.cc/3301/1853800037'}, {'barcode': '1853800037'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '液化石油气'}, {'delivery': 'DeliveryInfo'}]}" ]
+      }, {
+        "name" : "test_03_login[测试网址：http://www.tl6.cc/3204/8004413437]",
+        "uid" : "375f4637927b2ed7",
+        "parentUid" : "9b7b84feea895125fe5b2243d752986c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821951039,
+          "stop" : 1658821953003,
+          "duration" : 1964
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/3204/8004413437', 'data': [{'url': 'http://www.tl6.cc/3204/8004413437'}, {'barcode': '8004413437'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '液化石油气'}, {'delivery': 'DeliveryInfo'}]}" ]
+      }, {
+        "name" : "test_03_login[测试网址：http://www.tl6.cc/4501/1233001666]",
+        "uid" : "c60a4751b913423f",
+        "parentUid" : "9b7b84feea895125fe5b2243d752986c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821968824,
+          "stop" : 1658821971013,
+          "duration" : 2189
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/4501/1233001666', 'data': [{'url': 'http://www.tl6.cc/4501/1233001666'}, {'barcode': '1233001666'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '液化石油气'}, {'delivery': 'DeliveryInfo'}]}" ]
+      }, {
+        "name" : "test_02_login[测试网址：http://www.tl6.cc/3501/0273018556]",
+        "uid" : "c39fe1d5f34a924a",
+        "parentUid" : "9b7b84feea895125fe5b2243d752986c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821948301,
+          "stop" : 1658821949760,
+          "duration" : 1459
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/3501/0273018556', 'data': [{'url': 'http://www.tl6.cc/3501/0273018556'}, {'barcode': '0273018556'}, {'confirm': 'wrap'}]}" ]
+      }, {
+        "name" : "test_03_login[测试网址：http://www.tl6.cc/4103/6660000001]",
+        "uid" : "34c4b4ce131c1ea8",
+        "parentUid" : "9b7b84feea895125fe5b2243d752986c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821960174,
+          "stop" : 1658821962117,
+          "duration" : 1943
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/4103/6660000001', 'data': [{'url': 'http://www.tl6.cc/4103/6660000001'}, {'barcode': '6660000001'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '氮气'}, {'delivery': 'DeliveryInfo'}]}" ]
+      }, {
+        "name" : "test_03_login[测试网址：http://www.tl6.cc/3201/02292670]",
+        "uid" : "3277ed69d3af6f03",
+        "parentUid" : "9b7b84feea895125fe5b2243d752986c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821953035,
+          "stop" : 1658821954719,
+          "duration" : 1684
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/3201/02292670', 'data': [{'url': 'http://www.tl6.cc/3201/02292670'}, {'barcode': '02292670'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '液化石油气'}, {'delivery': 'DeliveryInfo'}]}" ]
+      }, {
+        "name" : "test_03_login[测试网址：http://www.tl6.cc/4201/6030021371]",
+        "uid" : "201f783fda5424bb",
+        "parentUid" : "9b7b84feea895125fe5b2243d752986c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821962122,
+          "stop" : 1658821964817,
+          "duration" : 2695
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/4201/6030021371', 'data': [{'url': 'http://www.tl6.cc/4201/6030021371'}, {'barcode': '6030021371'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '液化石油气'}, {'delivery': 'DeliveryInfo'}]}" ]
+      } ],
+      "uid" : "9b7b84feea895125fe5b2243d752986c"
+    }, {
+      "name" : "4404-MainThread",
+      "children" : [ {
+        "name" : "test_03_login[测试网址：http://www.tl6.cc/2202/2080000496]",
+        "uid" : "ef3c284e901ec82",
+        "parentUid" : "3d079a9a53a2e67c6b83512e810df395",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821982695,
+          "stop" : 1658821984792,
+          "duration" : 2097
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/2202/2080000496', 'data': [{'url': 'http://www.tl6.cc/2202/2080000496'}, {'barcode': '2080000496'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '液化石油气'}, {'delivery': 'DeliveryInfo'}]}" ]
+      }, {
+        "name" : "test_01_login[测试网址：http://www.tl6.cc/4404/6683000339]",
+        "uid" : "8d341796c7f0fffe",
+        "parentUid" : "3d079a9a53a2e67c6b83512e810df395",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821942078,
+          "stop" : 1658821943749,
+          "duration" : 1671
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/4404/6683000339', 'data': [{'url': 'http://www.tl6.cc/4404/6683000339'}, {'barcode': '6683000339'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '液化石油气钢瓶'}, {'delivery': 'DeliveryInfo'}]}" ]
+      }, {
+        "name" : "test_02_login[测试网址：http://www.tl6.cc/2306/23060100016]",
+        "uid" : "e11af4f11c8519a7",
+        "parentUid" : "3d079a9a53a2e67c6b83512e810df395",
+        "status" : "broken",
+        "time" : {
+          "start" : 1658821969163,
+          "stop" : 1658821975458,
+          "duration" : 6295
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/2306/23060100016', 'data': [{'url': 'http://www.tl6.cc/2306/23060100016'}, {'barcode': '23060100016'}, {'confirm': 'ulData'}]}" ]
+      }, {
+        "name" : "test_03_login[测试网址：http://www.tl6.cc/1101/5013001316]",
+        "uid" : "fb361fabc15fbe01",
+        "parentUid" : "3d079a9a53a2e67c6b83512e810df395",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821975525,
+          "stop" : 1658821977539,
+          "duration" : 2014
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/1101/5013001316', 'data': [{'url': 'http://www.tl6.cc/1101/5013001316'}, {'barcode': '5013001316'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '液化石油气'}, {'delivery': 'DeliveryInfo'}]}" ]
+      }, {
+        "name" : "test_03_login[测试网址：http://www.tl6.cc/1404/6012002179]",
+        "uid" : "2aa92e4a5c54348f",
+        "parentUid" : "3d079a9a53a2e67c6b83512e810df395",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821979217,
+          "stop" : 1658821980923,
+          "duration" : 1706
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/1404/6012002179', 'data': [{'url': 'http://www.tl6.cc/1404/6012002179'}, {'barcode': '6012002179'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '丙烷'}, {'delivery': 'DeliveryInfo'}]}" ]
+      }, {
+        "name" : "test_02_login[测试网址：http://www.tl6.cc/3303/5013083701]",
+        "uid" : "37b5155a473c3942",
+        "parentUid" : "3d079a9a53a2e67c6b83512e810df395",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821943753,
+          "stop" : 1658821944994,
+          "duration" : 1241
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/3303/5013083701', 'data': [{'url': 'http://www.tl6.cc/3303/5013083701'}, {'barcode': '5013083701'}, {'confirm': 'lbBarcode'}]}" ]
+      }, {
+        "name" : "test_03_login[测试网址：http://www.tl6.cc/1502/1023096613]",
+        "uid" : "7fca35c21bb773e9",
+        "parentUid" : "3d079a9a53a2e67c6b83512e810df395",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821980928,
+          "stop" : 1658821982690,
+          "duration" : 1762
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/1502/1023096613', 'data': [{'url': 'http://www.tl6.cc/1502/1023096613'}, {'barcode': '1023096613'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '液化石油气'}, {'delivery': 'DeliveryInfo'}]}" ]
+      }, {
+        "name" : "test_02_login[测试网址：http://www.tl6.cc/2306/23060100016]",
+        "uid" : "8086cd72e92c102",
+        "parentUid" : "3d079a9a53a2e67c6b83512e810df395",
+        "status" : "broken",
+        "time" : {
+          "start" : 1658821961764,
+          "stop" : 1658821968088,
+          "duration" : 6324
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/2306/23060100016', 'data': [{'url': 'http://www.tl6.cc/2306/23060100016'}, {'barcode': '23060100016'}, {'confirm': 'ulData'}]}" ]
+      }, {
+        "name" : "test_03_login[测试网址：http://www.tl6.cc/1306/3023004423]",
+        "uid" : "13e087ed4ae2ca97",
+        "parentUid" : "3d079a9a53a2e67c6b83512e810df395",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821977543,
+          "stop" : 1658821979212,
+          "duration" : 1669
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/1306/3023004423', 'data': [{'url': 'http://www.tl6.cc/1306/3023004423'}, {'barcode': '3023004423'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '液化石油气'}, {'delivery': 'DeliveryInfo'}]}" ]
+      }, {
+        "name" : "test_02_login[测试网址：http://www.tl6.cc/2306/23060100016]",
+        "uid" : "f38bb89e17b22cce",
+        "parentUid" : "3d079a9a53a2e67c6b83512e810df395",
+        "status" : "broken",
+        "time" : {
+          "start" : 1658821946190,
+          "stop" : 1658821953196,
+          "duration" : 7006
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/2306/23060100016', 'data': [{'url': 'http://www.tl6.cc/2306/23060100016'}, {'barcode': '23060100016'}, {'confirm': 'ulData'}]}" ]
+      }, {
+        "name" : "test_03_login[测试网址：http://www.tl6.cc/6521/3013001706]",
+        "uid" : "afe32e22da8e1ad7",
+        "parentUid" : "3d079a9a53a2e67c6b83512e810df395",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821986490,
+          "stop" : 1658821988308,
+          "duration" : 1818
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/6521/3013001706', 'data': [{'url': 'http://www.tl6.cc/6521/3013001706'}, {'barcode': '3013001706'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '液化石油气'}, {'delivery': 'DeliveryInfo'}]}" ]
+      }, {
+        "name" : "test_02_login[测试网址：http://www.tl6.cc/4401/1011117957]",
+        "uid" : "49e8986adc35434e",
+        "parentUid" : "3d079a9a53a2e67c6b83512e810df395",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821944999,
+          "stop" : 1658821946186,
+          "duration" : 1187
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/4401/1011117957', 'data': [{'url': 'http://www.tl6.cc/4401/1011117957'}, {'barcode': '1011117957'}, {'confirm': 'divInfo'}]}" ]
+      }, {
+        "name" : "test_03_login[测试网址：http://www.tl6.cc/6402/1021600225]",
+        "uid" : "81c6c0345429c884",
+        "parentUid" : "3d079a9a53a2e67c6b83512e810df395",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658821984797,
+          "stop" : 1658821986485,
+          "duration" : 1688
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/6402/1021600225', 'data': [{'url': 'http://www.tl6.cc/6402/1021600225'}, {'barcode': '1021600225'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '二氧化碳'}, {'delivery': 'DeliveryInfo'}]}" ]
+      }, {
+        "name" : "test_02_login[测试网址：http://www.tl6.cc/2306/23060100016]",
+        "uid" : "d6182aeb14dd4a77",
+        "parentUid" : "3d079a9a53a2e67c6b83512e810df395",
+        "status" : "broken",
+        "time" : {
+          "start" : 1658821954376,
+          "stop" : 1658821960692,
+          "duration" : 6316
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '测试网址：http://www.tl6.cc/2306/23060100016', 'data': [{'url': 'http://www.tl6.cc/2306/23060100016'}, {'barcode': '23060100016'}, {'confirm': 'ulData'}]}" ]
+      } ],
+      "uid" : "3d079a9a53a2e67c6b83512e810df395"
+    } ],
+    "uid" : "d60c48fdeed243acbb953cad5601cdd8"
+  } ]
+}

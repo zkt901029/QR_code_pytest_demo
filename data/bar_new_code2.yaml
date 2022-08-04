@@ -1,0 +1,22 @@
+# 5
+- title: 测试网址：http://www.tl6.cc/2102/6660101018
+  data:
+    - url: http://www.tl6.cc/2102/6660101018
+    - barcode: '6660101018'
+    - confirm: ulData
+    - cylinder_ID: aBottleInfo
+    - filling: FillingInfo
+    - cylinder_type: '氧气'
+    - delivery: DeliveryInfo
+
+# 30
+- title: 测试网址：http://www.tl6.cc/4404/6683000339
+  data:
+    - url: http://www.tl6.cc/4404/6683000339
+    - barcode: '6683000339'
+    - confirm: ulData
+    - cylinder_ID: aBottleInfo
+    - filling: FillingInfo
+    - cylinder_type: '液化石油气钢瓶'
+    - delivery: DeliveryInfo
+

@@ -1,0 +1,41 @@
+
+- title: 测试网址：http://www.tl6.cc/1200/3056105221
+  data:
+    - url: http://www.tl6.cc/1200/3056105221
+    - barcode: '3056105221'
+    - confirm: divCylinderInfo
+
+
+- title: 测试网址：http://www.tl6.cc/3303/5013083701
+  data:
+    - url: http://www.tl6.cc/3303/5013083701
+    - barcode: '5013083701'
+    - confirm: lbBarcode
+
+- title: 测试网址：http://www.tl6.cc/3501/0273018556
+  data:
+    - url: http://www.tl6.cc/3501/0273018556
+    - barcode: '0273018556'
+    - confirm: wrap
+
+
+- title: 测试网址：http://www.tl6.cc/4401/1011117957
+  data:
+    - url: http://www.tl6.cc/4401/1011117957
+    - barcode: '1011117957'
+    - confirm: divInfo
+
+
+- title: 测试网址：http://www.tl6.cc/6301/1011101409
+  data:
+    - url: http://www.tl6.cc/6301/1011101409
+    - barcode: '1011101409'
+    - confirm: divCylinderInfo
+
+
+# 7
+- title: 测试网址：http://www.tl6.cc/2306/23060100016
+  data:
+    - url: http://www.tl6.cc/2306/23060100016
+    - barcode: '23060100016'
+    - confirm: ulData

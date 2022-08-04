@@ -1,0 +1,22 @@
+[ {
+  "values" : [ "2.9.45" ],
+  "name" : "allureVersion"
+}, {
+  "values" : [ "3.8.6" ],
+  "name" : "pythonVersion"
+}, {
+  "values" : [ "http://www.tl6.cc/" ],
+  "name" : "baseUrl"
+}, {
+  "values" : [ "zhuketian" ],
+  "name" : "author"
+}, {
+  "values" : [ "QR code test" ],
+  "name" : "projectName"
+}, {
+  "values" : [ "win11" ],
+  "name" : "systemVersion"
+}, {
+  "values" : [ "511899660@qq.com" ],
+  "name" : "email"
+} ]

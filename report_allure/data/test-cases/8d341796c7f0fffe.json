@@ -1,0 +1,321 @@
+{
+  "uid" : "8d341796c7f0fffe",
+  "name" : "test_01_login[测试网址：http://www.tl6.cc/4404/6683000339]",
+  "fullName" : "test_case.test_qr_code.Test_QR_login#test_01_login",
+  "historyId" : "82a2f968748b4343f29f6e2a3b40ddec",
+  "time" : {
+    "start" : 1658821942078,
+    "stop" : 1658821943749,
+    "duration" : 1671
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "chrome_options",
+    "time" : {
+      "start" : 1658821941074,
+      "stop" : 1658821942076,
+      "duration" : 1002
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "登录操作",
+      "time" : {
+        "start" : 1658821942079,
+        "stop" : 1658821943375,
+        "duration" : 1296
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "步骤1：打开浏览器",
+        "time" : {
+          "start" : 1658821942079,
+          "stop" : 1658821943339,
+          "duration" : 1260
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      }, {
+        "name" : "步骤2：获取浏览器字段内容",
+        "time" : {
+          "start" : 1658821943339,
+          "stop" : 1658821943374,
+          "duration" : 35
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      }, {
+        "name" : "步骤3：断言数据信息",
+        "time" : {
+          "start" : 1658821943374,
+          "stop" : 1658821943374,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "url",
+        "value" : "'http://www.tl6.cc/4404/6683000339'"
+      }, {
+        "name" : "barcode",
+        "value" : "'6683000339'"
+      }, {
+        "name" : "confirm",
+        "value" : "'ulData'"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 3,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "点击钢瓶信息操作",
+      "time" : {
+        "start" : 1658821943375,
+        "stop" : 1658821943522,
+        "duration" : 147
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "步骤1：点击钢瓶信息图标",
+        "time" : {
+          "start" : 1658821943375,
+          "stop" : 1658821943499,
+          "duration" : 124
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      }, {
+        "name" : "步骤2：进入钢瓶信息页面",
+        "time" : {
+          "start" : 1658821943499,
+          "stop" : 1658821943522,
+          "duration" : 23
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      }, {
+        "name" : "步骤3：断言数据信息",
+        "time" : {
+          "start" : 1658821943522,
+          "stop" : 1658821943522,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "value",
+        "value" : "'aBottleInfo'"
+      }, {
+        "name" : "information",
+        "value" : "'ulData'"
+      }, {
+        "name" : "barcode",
+        "value" : "'6683000339'"
+      }, {
+        "name" : "cylinder_type",
+        "value" : "'液化石油气钢瓶'"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 3,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "点击充装信息操作",
+      "time" : {
+        "start" : 1658821943522,
+        "stop" : 1658821943749,
+        "duration" : 227
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "步骤1：点击充装信息图标",
+        "time" : {
+          "start" : 1658821943522,
+          "stop" : 1658821943725,
+          "duration" : 203
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      }, {
+        "name" : "步骤2：进入充装信息页面",
+        "time" : {
+          "start" : 1658821943725,
+          "stop" : 1658821943749,
+          "duration" : 24
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      }, {
+        "name" : "步骤3：断言数据信息",
+        "time" : {
+          "start" : 1658821943749,
+          "stop" : 1658821943749,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "value",
+        "value" : "'FillingInfo'"
+      }, {
+        "name" : "filling",
+        "value" : "'ulData'"
+      }, {
+        "name" : "cylinder_type",
+        "value" : "'液化石油气钢瓶'"
+      }, {
+        "name" : "barcode",
+        "value" : "'6683000339'"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 3,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "8c42e8a98dd63f5",
+      "name" : "stdout",
+      "source" : "8c42e8a98dd63f5.txt",
+      "type" : "text/plain",
+      "size" : 154
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 12,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "chrome_options::0",
+    "time" : {
+      "start" : 1658821988310,
+      "stop" : 1658821990371,
+      "duration" : 2061
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "flaky(reruns=3, reruns_delay=1)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_qr_code"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_QR_login"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-3RK6891H"
+  }, {
+    "name" : "thread",
+    "value" : "4404-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_qr_code"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "args",
+    "value" : "{'title': '测试网址：http://www.tl6.cc/4404/6683000339', 'data': [{'url': 'http://www.tl6.cc/4404/6683000339'}, {'barcode': '6683000339'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '液化石油气钢瓶'}, {'delivery': 'DeliveryInfo'}]}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "flaky(reruns=3, reruns_delay=1)" ]
+  },
+  "source" : "8d341796c7f0fffe.json",
+  "parameterValues" : [ "{'title': '测试网址：http://www.tl6.cc/4404/6683000339', 'data': [{'url': 'http://www.tl6.cc/4404/6683000339'}, {'barcode': '6683000339'}, {'confirm': 'ulData'}, {'cylinder_ID': 'aBottleInfo'}, {'filling': 'FillingInfo'}, {'cylinder_type': '液化石油气钢瓶'}, {'delivery': 'DeliveryInfo'}]}" ]
+}
